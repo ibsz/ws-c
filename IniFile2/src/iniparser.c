@@ -2,8 +2,8 @@
  ============================================================================
  Name        : iniparser.c
  Author      : ibsz
- Version     :
- Copyright   : Your copyright notice
+ Version     : v 1.0
+ Copyright   : LGPL
  Description : ini file parser in C, Ansi-style
  ============================================================================
  */

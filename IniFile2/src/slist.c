@@ -2,8 +2,8 @@
  ============================================================================
  Name        : slist.c
  Author      : ibsz
- Version     :
- Copyright   : Your copyright notice
+ Version     : v 1.0
+ Copyright   : LGPL
  Description : slist header in C, Ansi-style
  ============================================================================
  */
